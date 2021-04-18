@@ -1,5 +1,12 @@
 ### Hi there 👋 I'm Wayne Forrester
 
+> System Engineer | Windows, PowerShell, SCCM, Application Packaging, Azure, DevOps
+
+- 🔭 I’m currently working on improving my cloud skill and am loving the process! 😄 
+- 🌱 I’m currently learning all things Azure in preparation for the AZ-104 exam. I'm also really enjoying Terraform so am tying to advance my IaC skills along the way.
+- 🤔 I’m looking to move into a DevOps focused role and to continue to further my dev skills.
+- ⚡ Fun fact: I love all things two wheels, especiall dirt biking and mountain biking!
+
 <!--
 **wayneforrester/wayneforrester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
