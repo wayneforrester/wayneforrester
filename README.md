@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Wayne Forrester
 
-> System Engineer | Windows, PowerShell, SCCM, Application Packaging, Azure, DevOps
+> Azure, DevOps, PowerShell, Windows, SCCM, Application Packaging
 
 - 🔭 I’m currently working on enhancing my cloud skills and am loving the process! 😄 
 - 🌱 I’m currently learning all things Azure in preparation for the AZ-104 exam. I'm also really enjoying Terraform so am advancing my IaC skills along the way.
