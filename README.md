@@ -3,7 +3,7 @@
 > Azure, DevOps, PowerShell, Windows, SCCM, Application Packaging
 
 - 🔭 I’m currently working on enhancing my cloud skills and am loving the process! 😄 
-- 🌱 I have recently attained the AZ-900 Azure Fundamentals and AZ-104 Azure Administrator certifications, and am now focusing on Terraform and Python development.
+- 🌱 I have attained the AZ-900 Azure Fundamentals and AZ-104 Azure Administrator certifications, and am now focusing on Terraform and Python development.
 - 🤔 I’m looking to move into a DevOps focused role and to continue to further my dev skills.
 - ⚡ Fun fact: I love getting out into the bush on my dirt bike and mountain bike.
 
