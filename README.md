@@ -1,9 +1,13 @@
 ### Hi there 👋 I'm Wayne Forrester
 
-> Azure, DevOps, PowerShell, Windows, SCCM, Application Packaging
+> Azure, DevOps, PowerShell, Automation, Windows, SCCM, Application Packaging
 
 - 🔭 I’m currently working on further enhancing my cloud skills and am loving the process! 😄 
-- 🌱 I have attained the AZ-900 Azure Fundamentals and AZ-104 Azure Administrator certifications, and am now focusing on Bicep, Terraform, Python and Linux.
+- 🚀 I currently hold the following Certifications: 
+  - AZ-900 Azure Fundamentals 
+  - AZ-104 Azure Administrator
+  - AZ-140 Azure Virtual Desktop
+- 🌱 I am now focusing on Bicep, Terraform, Python and Linux.
 - ⚡ Fun fact: I love getting out into the bush on my dirt bike and mountain bike.
 
 <!--
