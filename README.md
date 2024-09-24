@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Wayne Forrester
 
-> Azure, DevOps, PowerShell, Automation, Windows, SCCM, Application Packaging
+> Platform Engineer, DevOps, Azure, PowerShell, Automation
 
 - 🔭 I’m currently working on further enhancing my cloud skills and am loving the process! 😄 
 - 🚀 I currently hold the following Certifications: 
